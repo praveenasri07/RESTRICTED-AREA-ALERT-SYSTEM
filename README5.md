@@ -19,7 +19,8 @@ Unauthorized entry into restricted areas can cause safety and security problems.
 The LDR and resistor form a voltage divider, whose output is connected to the base of the BC547 transistor. The buzzer is connected to the transistor's collector. When the light condition changes because the restricted path is interrupted, the transistor switches and activates the buzzer.
 
 RESTRICTED AREA:  
-![][image1]
+![image1] <img width="1200" height="1600" alt="RESULT5" src="https://github.com/user-attachments/assets/56cf2bdd-f2f5-4f5b-a0c2-b125d04a1e38" />
+
 
 5\. Working:  
 1)The LDR continuously senses the surrounding light.  
